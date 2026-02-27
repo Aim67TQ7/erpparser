@@ -1,19 +1,20 @@
 # Claude Audit Log
 
 **Audited:** 2026-02-26
-**Bucket:** [ARCHIVE]
+**Bucket:** [SALVAGE]
+**Status:** Retired
 
 ## What This Was
-Standalone app or experiment
+ERP Parser — Epicor data extraction and transformation
 
 ## Job To Be Done
-Performance reviews/tracking
+Parse ERP export files into structured data
 
 ## Agent Replacement
 N/A
 
 ## What To Extract
-N/A
+ERP integration code, data transformation schemas
 
 ## Claude's Notes
-- Standard archive candidate. No special flags.
+- Salvage value: ERP integration code, data transformation schemas
